@@ -1,0 +1,6 @@
+id=speedtest-lan
+name=Speedtest LAN
+version=v@VERSION@
+versionCode=@VERSIONCODE@
+author=HuskyDG @vincentng295
+description=Self-hosted LAN speedtest server. Web UI on port 53808.
